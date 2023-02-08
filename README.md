@@ -1,13 +1,20 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto MongoDB Commerce
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Apresentação do Projeto
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+### Introdução
+
+O MongoDB Commerce pôe em prática os conceitos do NoSQL,uma variedade de modelos de dados para acessar e gerenciar os dados. Esses tipos de banco de dados são otimizados especificamente para aplicativos que exigem modelos de grande volume de dados, baixa latência e flexibilidade.
+Neste projeto o objetivo foi trabalhar com dados do cardápio do McDonald's, como ingredientes, valores nutricionais e dados fictícios de vendas.
+
+#### Habilidades que foram exigidas:
+
+-   MongoDB
+-   JavaScript
+
+#### Tecnologias utilizadas:
+
+-   Docker;
+-   Eslint;
+
+----------
